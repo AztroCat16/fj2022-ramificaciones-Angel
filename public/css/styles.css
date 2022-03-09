@@ -9,7 +9,7 @@ border-color: aqua;
 
 .sub_menu{}
 
-.title{}
+.h1title{}
 
 .caret{}
 
@@ -23,4 +23,12 @@ border-color: aqua;
 
 .subrayado{
     text-decoration: underline;
+}
+
+.title{
+    font-size: 2en;
+}
+
+.subtitle{
+    font-size: 1.5en;
 }
