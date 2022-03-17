@@ -8,3 +8,7 @@ create table users(
    created_at datetime not null default CURRENT_TIMESTAMP,
    update_at datatime not null
 )
+create table nivel(
+   idnivel int primary key auto_increment,
+   descripcion varchar(20) not null
+)
